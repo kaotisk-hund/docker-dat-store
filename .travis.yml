@@ -1,0 +1,5 @@
+languages: podman
+branches:
+  only:
+    - master
+
